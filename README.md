@@ -27,10 +27,11 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Submission
-For submitting your application, create a new branch with your name on it in git and push the code there.
+For submitting your application, create a new repository using this template as a public repo and submit the link 
+once you're done.
 
 You can continuously push your in-progress code to your branch. The submission
 will be accepted only once you have pushed the code with the following message in
 your last commit : "Final commit - <your name> - challenge submission".
 
-#### Note: Any push or changes in the 'main' branch or 'test backup' branch will be considered as disqualification.  
+#### Note: Any push or changes in the 'main' branch will be considered as disqualification.  
