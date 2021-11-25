@@ -1,6 +1,6 @@
 # calc_challenge
 
-A simple calculator
+A simple calculator.
 
 ## Getting Started
 
